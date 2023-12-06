@@ -29,12 +29,14 @@
 
 - **https://blog.symbaloo.com/webmixes/4/unblocked-games**
 
+- **https://millseagles.blogspot.com/**
 
-**#About us**
+
+**About us**
 
 **We are a 4 person group** Who wants to make gaming in school better
 
-#Roles
+**Roles**
 
 **We have 2 people find game sites and one person decorates it.** **Of course we also need someone to code everything and that would be me**
     
