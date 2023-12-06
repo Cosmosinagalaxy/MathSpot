@@ -1,11 +1,11 @@
 
 # MathSpot
 ## Fun math games
-- PLAY MATHSPOT NOWWWWWWW
+- **PLAY MATHSPOT NOWWWWWWW**
 ### Fun games
 
 - We are a 4 people group so updates may take a while
-- PLAY NOW
+- **PLAY NOW** 
 
 **Bold** and _Italic_ and 'Code' text
 
