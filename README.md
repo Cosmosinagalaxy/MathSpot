@@ -1,7 +1,7 @@
 
 # MathSpot
 - ***Math Spot*** **Is a fun game site with math games**
-## Fun math games
+## Fun math games (not working RN) 
 - **PLAY MATHSPOT NOWWWWWWW**
 ### Fun games
 
