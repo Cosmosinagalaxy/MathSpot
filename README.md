@@ -13,3 +13,5 @@
 **Bold** and _Italic_ and 'Code' text
 
 [Link](url) and ![Image](src)
+
+[MathSpot.github.io]
