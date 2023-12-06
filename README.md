@@ -1,5 +1,6 @@
 
 # MathSpot
+- ***Math Spot*** **Is a fun game site with math games**
 ## Fun math games
 - **PLAY MATHSPOT NOWWWWWWW**
 ### Fun games
