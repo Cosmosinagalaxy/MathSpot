@@ -29,4 +29,9 @@
 **Roles**
 
 **We have 2 people find game sites and one person decorates it.** **Of course we also need someone to code everything and that would be me**
+
+
+***Making a Github page***
+
+**its very easy to make a github page like this isnt a real page but this is a example https://cosmosinagalaxy.github.io/MathSpotWebsites/ or smh else**
     
