@@ -33,5 +33,5 @@
 
 ***Making a Github page***
 
-**its very easy to make a github page like this isnt a real page but this is a example https://cosmosinagalaxy.github.io/MathSpotWebsites/ or https://github.com/Cosmosinagalaxy/MathSpotGames/wiki**
+**its very easy to make a github page like this isnt a real page but this is a example https://cosmosinagalaxy.github.io/MathSpotWebsites/ or https://cosmosinagalaxy.github.io/MathSpotGames/**
     
